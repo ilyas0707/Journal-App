@@ -9,12 +9,12 @@
 <h3>Script for database</h3>
 <p>
 create table data_app_fxml( <br>
-  name varchar(255), <br>
-  points varchar(255) <br>
+  <span>  name varchar(255),</span> <br>
+  <span>  points varchar(255)</span> <br>
 );
 </p>
 
 <p>
-<b>Login: </b> postgres
+<b>Login: </b> postgres <br>
 <b>Password: </b> 12345
 </p>
